@@ -1,0 +1,23 @@
+{
+  "name": "engine3d",
+  "version": "0.0.1",
+  "description": "A 3D game engine which combines theee.js for graphical rendering and cannon.js for physics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BachNewton/Engine3D.git"
+  },
+  "author": "Kyle Hutchinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BachNewton/Engine3D/issues"
+  },
+  "homepage": "https://github.com/BachNewton/Engine3D#readme",
+  "dependencies": {
+    "cannon": "^0.6.2",
+    "three": "^0.165.0"
+  }
+}
